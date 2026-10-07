@@ -1,7 +1,7 @@
 export const skills = [
   { title: "Python", percent: 34 },
   { title: "Js/Ts", percent: 25 },
-  { title: "C/C++", percent: 15 },
+  { title: "C/C++", percent: 18 },
   { title: "Algorithms", percent: 13 },
   { title: "Vue", percent: 6 },
   { title: "Astro", percent: 6 },
