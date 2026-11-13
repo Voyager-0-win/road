@@ -5,7 +5,6 @@ export const skills = [
   { title: "C/C++", percent: 23 },
   { title: "Algorithms", percent: 22 },
   { title: "Astro", percent: 6 },
-  { title: "Android", percent: 3 },
   { title: "Node.js", percent: 3 }
 ]
 
